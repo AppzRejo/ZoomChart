@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T19:35:37 EEST" name="Suite" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1419">
+    <groups>
+    </groups>
+    <test started-at="2023-04-24T19:35:37 EEST" name="Test" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1419">
+      <class name="TestSuitTestCases.ShorteningValueTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[L]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9.99999999E8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123.456789]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.234578]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="beforeMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="f" data-provider="FetchTestData" finished-at="2023-04-24T19:35:38 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSuitTestCases.ShorteningValueTest@942a29c]" started-at="2023-04-24T19:35:38 EEST" name="afterMethod" finished-at="2023-04-24T19:35:38 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestSuitTestCases.ShorteningValueTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
